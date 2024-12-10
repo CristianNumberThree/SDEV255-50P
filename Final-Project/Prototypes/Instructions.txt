@@ -19,3 +19,8 @@ Then open local file browser and manually run index.html and courses.html
 Mach 5 only:
 open a terminal in the Final project mach 5 folder and run this command:
 Bash [node server.js]
+
+Mach 6 only:
+open terminal in the Final project mach 6 folder and run this command:
+Bash [npm install bcrypt passport passport-local express-session connect-flash]
+*side note if terminal prompts for audit then comply and audit as needed
